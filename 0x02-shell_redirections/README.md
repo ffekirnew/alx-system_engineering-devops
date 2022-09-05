@@ -5,3 +5,4 @@
 4-lastlines prints the last lines of a file to the standard output
 5-firstlines prints the first lines of a file tothe standard output`
 6-third_line prints the third line of the given file
+7-file creates a file containig the words "Best School"
