@@ -15,3 +15,4 @@
 14-findthatword displays files containing the pattern "root" from the given file
 15-countthatword displays the number of lines containing the pattern "bin" from the given file
 16-whatsnext displays lines containing the pattern “root” and 3 lines after them in the given file
+17-hidethisword displays all words in the file that doesn't contain the pattern "bin"
