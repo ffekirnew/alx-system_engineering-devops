@@ -20,3 +20,4 @@
 19-AZ replaces the letters a and c in the input to z and e
 20-hiago removes c and C from the input
 21-reverse reverses the input
+22-users_and_homes displays all users and their home directories, sorted by users
