@@ -13,3 +13,4 @@
 12-newest_files displays the 10 newest files in the directory
 13-unique takes a list of words as input and prints only words that appear exactly once
 14-findthatword displays files containing the pattern "root" from the given file
+15-countthatword displays the number of lines containing the pattern "bin" from the given file
