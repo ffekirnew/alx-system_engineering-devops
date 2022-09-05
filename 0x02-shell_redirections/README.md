@@ -6,3 +6,4 @@
 5-firstlines prints the first lines of a file tothe standard output`
 6-third_line prints the third line of the given file
 7-file creates a file containig the words "Best School"
+8-cwd_state sends the output of the command ls -ls to a file
