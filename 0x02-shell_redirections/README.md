@@ -8,3 +8,4 @@
 7-file creates a file containig the words "Best School"
 8-cwd_state sends the output of the command ls -ls to a file
 9-duplicate_last_line duplicates the last line in a file
+10-no_more_js deletes all js files inside the directory and all subdirectories
